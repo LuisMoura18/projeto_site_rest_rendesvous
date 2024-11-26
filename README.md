@@ -84,8 +84,10 @@ Clone o repositório:
 ```bash
 https://github.com/leandrororiz/projeto_site_rest_rendesvous.git
 ```
-## Autores
-Desenvolvido por: 
+## Desenvolvido por: 
+
 Leandro Roriz Fidalgo,
 Luis Andre Moura,
-Emanuel Moreira Dos Anjos
+Emanuel Moreira Dos Anjos.
+
+Orientador Hudson Neves https://github.com/HudsonNeves
