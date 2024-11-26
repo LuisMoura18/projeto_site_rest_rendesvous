@@ -10,7 +10,7 @@
 - [Como Usar]
 - [Autor]
 
-  ## Descrição
+## Descrição
 
   Este projeto consiste em um site estático e responsivo criado com HTML e CSS, projetado para apresentar um restaurante chamado "Rendezvous Gourmet". O site exibe pratos promocionais, opções de reserva e entrega, e é um ótimo exemplo de um template inicial para sites de pequenas empresas.
 
