@@ -1,7 +1,7 @@
- Rendezvous Gourmet
+ ##Rendezvous Gourmet
 
 
- Índice
+ ##Índice
 
 - [Descrição]
 - [Funcionalidades]
@@ -10,19 +10,19 @@
 - [Como Usar]
 - [Autor]
 
-  Descrição
+  ##Descrição
 
   Este projeto consiste em um site estático e responsivo criado com HTML e CSS, projetado para apresentar um restaurante chamado "Rendezvous Gourmet". O site exibe pratos promocionais, opções de reserva e entrega, e é um ótimo exemplo de um template inicial para sites de pequenas empresas.
 
 
- Funcionalidades
+## Funcionalidades
 
 - **Responsividade**: Layout adaptável para diferentes tamanhos de tela (desktop, tablet e mobile).
 - **Design Atraente**: Utiliza cores escuras e imagens vibrantes para atrair a atenção dos visitantes.
 - **Navegação Simples**: Links para seções como Pratos, Reservas, Sobre Nós e Contato.
 - **Seções Destacadas**: Exibe pratos promocionais e informações sobre reservas e delivery.
 
- Layout
+ ##Layout
 
 1. Cabeçalho (Navbar)
 O cabeçalho do site apresenta uma navbar fixa no topo da página, com um fundo escuro que realça os elementos de navegação. Contém:
@@ -68,20 +68,20 @@ Texto de Copyright: indicando os direitos reservados.
 Endereço Completo do Restaurante: para que os visitantes possam localizar facilmente.
 Indicação do País: "Brasil".
 
- Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - HTML5
 - CSS3
 - Bootstrap (v5.3.3)
 
- Como Usar
+## Como Usar
 
 Clone o repositório:
 
-bash
+```bash
 https://github.com/leandrororiz/projeto_site_rest_rendesvous.git
-
-Autores
+```
+##Autores
 Desenvolvido por: 
 Leandro Roriz Fidalgo,
 Luis Andre Moura,
