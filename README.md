@@ -37,6 +37,7 @@ Sobremesas
 Reservas: leva o usuário à página de reservas.
 Sobre Nós: informações sobre o restaurante.
 Contato: detalhes para contato.
+
 2. Banner Principal
 Abaixo do cabeçalho, o banner principal ocupa toda a largura da tela e apresenta uma imagem vibrante do restaurante ou de um prato em destaque. Essa imagem é projetada para captar a atenção dos visitantes, transmitindo a essência do restaurante.
 
@@ -48,6 +49,7 @@ Cartões de Pratos: cada prato é apresentado em um cartão que inclui:
 Uma imagem apetitosa do prato.
 O nome do prato em uma fonte clara e legível.
 Estilo de exibição em um layout flexível, permitindo que os cartões se ajustem a diferentes tamanhos de tela.
+
 4. Seção de Promoções
 Esta seção destaca as opções de serviço, com um layout dividido em cartões para cada promoção. Inclui:
 
@@ -61,6 +63,7 @@ Cartão de Delivery:
 Imagem que representa o conceito de entrega.
 Texto informativo sobre como fazer pedidos para entrega.
 Botão "FAÇA SEU PEDIDO" que redireciona para a página de delivery.
+
 5. Rodapé
 O rodapé é discreto, mas informativo, com um fundo mais escuro que o restante do site. Contém:
 
